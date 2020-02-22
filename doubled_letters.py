@@ -5,3 +5,5 @@ if (string[::2] == string[1::2]):
 else:
     print("They are not all doubled")
 
+
+
